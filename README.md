@@ -1,4 +1,4 @@
-# lex-cai-chatbot-ui
+# bot-component
 
 ## Project setup
 ```
